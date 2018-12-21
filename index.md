@@ -1,7 +1,7 @@
 # Software Engineering Links
 
 ## Web Development
-(https://3perf.com/talks/web-perf-101/)
+[](https://3perf.com/talks/web-perf-101/)
 
 ## HTML
 ## CSS
