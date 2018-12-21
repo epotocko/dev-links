@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Software Engineering Links
 
-You can use the [editor on GitHub](https://github.com/epotocko/dev-links/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Web Development
+https://3perf.com/talks/web-perf-101/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## HTML
+## CSS
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 
-### Markdown
+https://caniuse.com/#feat=css-grid
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://designsystem.digital.gov/components/
 
-```markdown
-Syntax highlighted code block
+## JavaScript
+### Node.js
+https://github.com/dominictarr/event-stream/issues/116
 
-# Header 1
-## Header 2
-### Header 3
+## Python
 
-- Bulleted
-- List
+## PHP
 
-1. Numbered
-2. List
+## Ruby
+### Ruby on Rails
+https://medium.com/@carlescliment/about-rails-concerns-a6b2f1776d7d
 
-**Bold** and _Italic_ and `Code` text
+https://www.madetech.com/blog/pros-and-cons-of-ruby-on-rails
 
-[Link](url) and ![Image](src)
-```
+https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c
 
-### Jekyll Themes
+## PostgreSQL
+https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epotocko/dev-links/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## MySQL
+https://eng.uber.com/mysql-migration/
 
-### Support or Contact
+## Nginx
+https://medium.com/lasso/use-nginx-and-lasso-to-add-google-authentication-to-any-application-d3a8a7f073dd
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Security
+https://mozilla.github.io/server-side-tls/ssl-config-generator/
+
+https://www.ssllabs.com/ssltest/
+
+https://24ways.org/2018/securing-your-site-like-its-1999/
+
+## Cloud
+https://martinfowler.com/articles/serverless.html
+
+https://lightstep.com/blog/the-end-of-microservices/
+
+https://zwischenzugs.com/2016/04/12/hitler-uses-docker-annotated/
+
+## Linux
+https://www.computerhope.com/unix/utail.htm
+
+https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+
+## Machine Learning
+https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
