@@ -16,6 +16,7 @@ https://designsystem.digital.gov/components/
 https://github.com/dominictarr/event-stream/issues/116
 
 ## Python
+https://www.quantinsti.com/blog/introduction-zipline-python
 
 ## PHP
 
@@ -46,11 +47,17 @@ https://www.ssllabs.com/ssltest/
 https://24ways.org/2018/securing-your-site-like-its-1999/
 
 ## Cloud
+https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1?wed
+
 https://martinfowler.com/articles/serverless.html
 
 https://lightstep.com/blog/the-end-of-microservices/
 
 https://zwischenzugs.com/2016/04/12/hitler-uses-docker-annotated/
+
+https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/
+
+http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html
 
 ## Linux
 https://www.computerhope.com/unix/utail.htm
