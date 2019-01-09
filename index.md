@@ -5,9 +5,9 @@
 
 ## HTML
 ## CSS
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
+[MDN - Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
-https://caniuse.com/#feat=css-grid
+[Can I Use CSS Grids](https://caniuse.com/#feat=css-grid)
 
 https://designsystem.digital.gov/components/
 
@@ -34,7 +34,7 @@ https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f9
 https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres
 
 ## MySQL
-https://eng.uber.com/mysql-migration/
+[Uber Mysql Migration](https://eng.uber.com/mysql-migration/)
 
 ## Nginx
 https://medium.com/lasso/use-nginx-and-lasso-to-add-google-authentication-to-any-application-d3a8a7f073dd
@@ -63,7 +63,7 @@ https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based
 http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html
 
 ## Linux
-https://www.computerhope.com/unix/utail.htm
+[Tail](https://www.computerhope.com/unix/utail.htm)
 
 https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
 
